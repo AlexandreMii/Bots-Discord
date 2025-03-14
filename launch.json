@@ -1,0 +1,15 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: Launch bot.py",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/bot.py",
+            "console": "integratedTerminal",
+            "env": {
+                "DISCORD_TOKEN": "MTM1MDIxMTM1NzY4NTA1NTU0OQ.G3NCMK.dl8qxNVxRPrcOvtTBPKzlkWPVsq0_XnLLWesBI"
+            }
+        }
+    ]
+}
